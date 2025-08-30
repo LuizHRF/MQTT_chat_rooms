@@ -1,3 +1,6 @@
+#Mosquitto local
+mosquitto.db
+
 # Prerequisites
 *.d
 
